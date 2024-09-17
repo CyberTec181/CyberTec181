@@ -9,14 +9,14 @@
 </p>
 
 ##
-<div>
+<div align= "center">
 <img width=45% align="" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=CyberTec181&show_icons=true&theme=dark&layout=compact" /> 
 </div>
 
 ##
 <h2 align = "center">adiministradores</h2>
 
-<a href = "https://github.com/Brenno030" >Brenno Nogueira</a>
+<a href = "https://github.com/Brenno030">Brenno Nogueira</a>
 
 <a href = "https://github.com/DantedSousa">Carlos Dante</a>
 
