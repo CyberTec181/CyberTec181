@@ -4,9 +4,9 @@
 </p>
 
 ##
-<div align="">
-<img width=55% src="https://github-readme-streak-stats.herokuapp.com?user=CyberTec181&theme=dark&mode=weekly" />
-<img width=45% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=CyberTec181&show_icons=true&theme=dark&layout=compact" /> 
+<div>
+<img width=55% align="" src="https://github-readme-streak-stats.herokuapp.com?user=CyberTec181&theme=dark&mode=weekly" />
+<img width=45% align="" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=CyberTec181&show_icons=true&theme=dark&layout=compact" /> 
 </div>
 
 ##
