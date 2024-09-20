@@ -9,9 +9,19 @@
 </p>
 
 ##
+<h3>
+ Criamos esse projeto para a finalização da matéria de poo (programação orientada a objeto) do p3 de informática de 2024.1.
+ <br>
+Esse projeto é um aplicativo que contém uma tela de login logo de início, e um menu com um jogo e um aplicativo.
+</h3>
+
+<h2>linguagem utilizada:</h2>
+<div>
+    <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg"/>
+</div>
 
 ##
-<h2 align = "center">adiministradores</h2>
+<h2 align = "">adiministradores:</h2>
 
 <a href = "https://github.com/Brenno030">Brenno Nogueira</a>
 <div>
@@ -21,7 +31,7 @@
     
 <a href = "https://github.com/DantedSousa">Carlos Dante</a>
 <div>
- <img height="200" src=""/>
+ <img height="200" src="https://avatars.githubusercontent.com/u/97960610?v=4"/>
 </div>
     <h3></h3>
     
