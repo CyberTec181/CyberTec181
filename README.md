@@ -21,23 +21,23 @@ Esse projeto é um aplicativo que contém uma tela de login logo de início, e u
 </div>
 
 ##
-<h2 align = "">adiministradores:</h2>
+<h2 align = "">administradors:</h2>
 
 <a href = "https://github.com/Brenno030">Brenno Nogueira</a>
 <div>
  <img height="200" src="https://avatars.githubusercontent.com/u/159565883?v=4"/>
 </div>
-    <h3></h3>
+    <h3>encarregado de criar o jogo e o menu principal</h3>
     
 <a href = "https://github.com/DantedSousa">Carlos Dante</a>
 <div>
  <img height="200" src="https://avatars.githubusercontent.com/u/97960610?v=4"/>
 </div>
-    <h3></h3>
+    <h3>encarregado de criar o aplicativo e os slides  de apresentação</h3>
     
 <a href = "https://github.com/charlisonsantos">F° Charlison</a>
 <div>
  <img height="200" src="https://avatars.githubusercontent.com/u/159429882?v=4"/>
 </div>
-    <h4>encarregado de criar a empresa, personalisar o github e criar o trello.</h4>
+    <h3>encarregado de criar a empresa, tela de login, criar e personalisar o github e criar o trello.</h3>
 
