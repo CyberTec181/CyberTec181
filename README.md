@@ -15,13 +15,13 @@
 
 <a href = "https://github.com/Brenno030">Brenno Nogueira</a>
 <div>
- <img height="300" src="https://avatars.githubusercontent.com/u/159565883?v=4"/>
+ <img height="200" src="https://avatars.githubusercontent.com/u/159565883?v=4"/>
 </div>
     <h3></h3>
     
 <a href = "https://github.com/DantedSousa">Carlos Dante</a>
 <div>
- <img height="300" src=""/>
+ <img height="200" src=""/>
 </div>
     <h3></h3>
     
