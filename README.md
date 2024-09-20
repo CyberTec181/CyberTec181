@@ -22,7 +22,7 @@ Esse projeto é um aplicativo que contém uma tela de login logo de início, e u
 
 ##
 <h2 align = "">administradors:</h2>
-
+Obs: todos ajudaram em um pouco de cada
 <a href = "https://github.com/Brenno030">Brenno Nogueira</a>
 <div>
  <img height="200" src="https://avatars.githubusercontent.com/u/159565883?v=4"/>
