@@ -22,19 +22,20 @@ Esse projeto é um aplicativo que contém uma tela de login logo de início, e u
 
 ##
 <h2 align = "">administradors:</h2>
-Obs: todos ajudaram em um pouco de cada
+<h3>Obs: todos ajudaram em um pouco de cada.</h3>
+<br>
 <a href = "https://github.com/Brenno030">Brenno Nogueira</a>
 <div>
  <img height="200" src="https://avatars.githubusercontent.com/u/159565883?v=4"/>
 </div>
-    <h3>encarregado de criar o jogo e o menu principal</h3>
-    
+    <h3>encarregado de criar o jogo e o menu principal.</h3>
+<br>
 <a href = "https://github.com/DantedSousa">Carlos Dante</a>
 <div>
  <img height="200" src="https://avatars.githubusercontent.com/u/97960610?v=4"/>
 </div>
-    <h3>encarregado de criar o aplicativo e os slides  de apresentação</h3>
-    
+    <h3>encarregado de criar o aplicativo e os slides  de apresentação.</h3>
+<br>
 <a href = "https://github.com/charlisonsantos">F° Charlison</a>
 <div>
  <img height="200" src="https://avatars.githubusercontent.com/u/159429882?v=4"/>
