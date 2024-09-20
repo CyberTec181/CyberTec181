@@ -9,15 +9,25 @@
 </p>
 
 ##
-<div align= "center">
-<img width=45% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=CyberTec181&show_icons=true&theme=dark&layout=compact" /> 
-</div>
 
 ##
 <h2 align = "center">adiministradores</h2>
 
 <a href = "https://github.com/Brenno030">Brenno Nogueira</a>
-
+<div>
+ <img height="300" src="https://avatars.githubusercontent.com/u/159565883?v=4"/>
+</div>
+    <h3></h3>
+    
 <a href = "https://github.com/DantedSousa">Carlos Dante</a>
-
+<div>
+ <img height="300" src=""/>
+</div>
+    <h3></h3>
+    
 <a href = "https://github.com/charlisonsantos">F° Charlison</a>
+<div>
+ <img height="300" src="https://avatars.githubusercontent.com/u/159429882?v=4"/>
+</div>
+    <h3>encarregado de criar a empresa, personalisar o github e criar o trello.</h3>
+
