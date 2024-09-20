@@ -27,7 +27,7 @@
     
 <a href = "https://github.com/charlisonsantos">F° Charlison</a>
 <div>
- <img height="300" src="https://avatars.githubusercontent.com/u/159429882?v=4"/>
+ <img height="200" src="https://avatars.githubusercontent.com/u/159429882?v=4"/>
 </div>
     <h3>encarregado de criar a empresa, personalisar o github e criar o trello.</h3>
 
